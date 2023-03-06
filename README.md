@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # github-actions-course
 Samples for Github Actions DevOps pipelines and workflows
 
@@ -14,3 +15,6 @@ Samples for Github Actions DevOps pipelines and workflows
 [![050-docker-build-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml)
 
 [![052-docker-ghcr-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml)
+=======
+# github-actions-course
+>>>>>>> a0d997b65121debed62238b3bb075fe61ccdea21
